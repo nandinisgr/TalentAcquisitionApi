@@ -1,0 +1,901 @@
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-08T04:48:11.999Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-08T04:48:38.997Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-08T04:48:39.102Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-08T04:48:58.901Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-08T04:48:58.938Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-08T05:16:47.841Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-08T05:16:48.061Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-08T05:53:59.625Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-08T05:53:59.878Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-08T05:55:10.574Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-08T05:55:10.771Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-08T05:56:57.018Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-08T05:56:57.110Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-08T05:58:40.356Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-08T05:58:40.375Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-08T06:35:06.836Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-08T06:35:06.926Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-08T06:36:31.243Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-08T06:36:31.307Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-08T06:37:31.867Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-08T06:37:31.877Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-08T06:39:14.711Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-08T06:39:14.748Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-09T04:03:40.820Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-09T04:03:41.618Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-09T04:34:54.350Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-09T04:34:54.705Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-09T04:37:03.037Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-09T04:37:03.233Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-09T04:50:41.916Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-09T04:50:42.296Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-09T04:52:39.254Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-09T04:52:39.359Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-09T04:54:51.218Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-09T04:54:51.237Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-09T04:56:28.348Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-09T04:56:28.382Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-10T03:50:49.134Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-10T03:50:49.384Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-10T03:52:27.292Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-10T03:52:27.636Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-10T03:54:18.115Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-10T03:54:18.198Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-10T03:55:10.389Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-10T03:55:10.412Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-10T04:03:19.371Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-10T04:03:19.638Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-10T04:05:13.201Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-10T04:05:13.296Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-10T04:35:56.831Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-10T04:35:56.969Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-12T04:53:50.431Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-12T04:53:50.699Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-15T03:51:58.014Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-15T03:51:58.728Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-15T03:56:58.362Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-15T03:56:58.500Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-15T10:47:13.450Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-15T10:47:13.482Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-15T10:48:11.047Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-15T10:48:11.122Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-15T10:53:06.547Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-15T10:53:06.619Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-16T05:30:58.527Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-16T05:30:58.720Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-16T11:16:32.587Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-16T11:16:32.807Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T06:58:29.292Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T06:58:29.604Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T10:15:10.041Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T10:15:10.235Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T10:24:36.025Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T10:24:36.095Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T10:32:04.066Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T10:32:04.264Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T10:38:31.761Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T10:38:31.840Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T10:58:52.185Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T10:58:52.601Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T10:59:24.965Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T10:59:24.979Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T10:59:59.836Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T10:59:59.910Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T11:00:27.387Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T11:00:27.421Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T11:05:54.010Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T11:05:54.069Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T11:06:31.985Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T11:06:32.072Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T11:07:15.595Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T11:07:15.633Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T11:18:26.166Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T11:18:26.174Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T11:18:53.775Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T11:18:53.777Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T11:25:51.925Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T11:25:52.105Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T11:26:38.136Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T11:26:38.347Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T11:43:06.656Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T11:43:06.762Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T11:43:39.469Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T11:43:39.553Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T11:44:12.067Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T11:44:12.160Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T11:50:23.534Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T11:50:23.600Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T12:17:57.675Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T12:17:57.987Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T12:18:21.112Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T12:18:21.165Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T12:29:11.806Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T12:29:11.891Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T12:33:31.883Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T12:33:32.017Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T12:33:54.020Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T12:33:54.076Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T12:35:35.140Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T12:35:35.217Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T12:38:35.083Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T12:38:35.125Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-17T12:39:43.866Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-17T12:39:43.884Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:16:33.653Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T04:16:34.261Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:17:11.315Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T04:17:11.379Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:19:16.776Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T04:19:16.829Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:21:51.253Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T04:21:51.320Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:23:21.180Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T04:23:21.199Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:28:06.515Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T04:28:06.783Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:30:36.998Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T04:30:37.160Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:33:13.469Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T04:33:13.601Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:34:33.715Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T04:34:33.809Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:34:58.489Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T04:34:58.548Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:47:17.130Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T04:47:17.250Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:48:02.058Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T04:48:02.063Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:48:24.031Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T04:48:24.062Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:53:29.525Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T04:53:29.624Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:54:53.841Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T04:54:53.892Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:55:28.500Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T04:55:28.536Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:56:46.720Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T04:56:46.791Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:58:49.408Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T04:58:49.466Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T05:08:58.070Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T05:09:56.878Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T05:10:19.513Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T05:12:09.096Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T05:12:09.129Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T05:33:18.688Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T05:33:18.749Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T05:33:30.822Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T05:33:30.838Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T05:34:19.478Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T05:34:19.661Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T05:39:59.630Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T05:39:59.802Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T05:40:23.830Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T05:40:23.911Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T05:53:44.099Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T05:53:44.212Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T06:03:33.290Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T06:03:33.360Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T06:22:45.406Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T06:22:45.435Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T06:56:03.378Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T06:56:03.560Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T07:05:52.286Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T07:05:52.347Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T07:06:45.675Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T07:06:45.739Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T07:07:58.992Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T07:07:59.091Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T07:08:46.655Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T07:08:46.745Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T07:09:48.145Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T07:09:48.158Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T11:03:47.232Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T11:03:47.893Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T11:04:49.090Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T11:04:49.294Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T11:06:47.770Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T11:06:47.792Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T11:07:16.230Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T11:07:16.283Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T12:49:46.231Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T12:49:47.230Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T12:59:58.897Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T12:59:59.009Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T13:10:48.552Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T13:10:48.820Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-18T13:11:04.720Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-18T13:11:04.760Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-22T06:14:07.998Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-22T06:14:08.782Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-23T04:56:34.205Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-23T04:56:34.615Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-23T05:14:17.248Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-23T05:14:17.339Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-23T05:24:46.682Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-23T05:24:46.833Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-23T05:28:22.940Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-23T05:28:22.957Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-23T05:28:50.497Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-23T05:28:50.607Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-23T05:29:21.386Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-23T05:29:21.400Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-23T05:29:36.687Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-23T05:29:36.704Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-23T05:36:34.744Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-23T05:36:35.083Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-23T05:45:17.296Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-23T05:45:17.332Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-23T05:53:09.813Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-23T05:53:10.053Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-23T07:15:46.810Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-23T07:15:47.034Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-23T07:17:14.155Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-23T07:17:14.177Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-23T10:37:15.979Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-23T10:37:16.053Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-23T11:39:50.453Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-23T11:39:51.078Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-24T08:02:10.250Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-24T08:02:10.463Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-24T08:02:53.040Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-24T08:02:53.171Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-24T08:05:38.822Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-24T08:05:38.890Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-24T08:06:43.656Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-24T08:06:43.670Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-24T08:08:21.113Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-24T08:08:21.131Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-24T08:32:21.399Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-24T08:32:21.687Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-24T08:32:36.298Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-24T08:32:36.351Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-24T09:54:37.896Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-24T09:54:38.099Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-26T09:08:23.868Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-26T09:08:24.135Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-26T09:10:15.866Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-26T09:10:15.889Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-26T09:18:03.052Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-26T09:18:03.088Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-26T09:23:40.445Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-26T09:23:40.547Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-26T09:34:26.592Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-26T09:34:26.620Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-26T09:37:36.227Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-26T09:38:43.046Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-26T09:40:41.323Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-26T09:40:41.448Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-26T09:42:58.533Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-26T09:43:36.338Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-26T09:43:36.447Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-26T09:44:16.154Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-26T09:44:16.418Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-26T09:46:50.810Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-26T09:46:50.964Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-26T09:53:34.155Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-26T09:53:34.282Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-26T10:37:06.615Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-26T10:37:07.245Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-30T04:28:17.160Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-30T04:28:17.380Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-30T04:28:35.637Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-30T04:28:35.695Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-30T04:30:56.592Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-30T04:30:56.711Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-03-30T04:31:07.307Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-03-30T04:31:07.331Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-05T05:11:30.785Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-05T05:11:30.996Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-07T04:56:23.661Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-07T04:56:24.017Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-07T04:57:33.341Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-07T04:57:33.452Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-07T04:57:41.165Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-07T04:57:41.192Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T06:47:15.579Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T06:47:15.659Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T06:48:53.797Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T06:48:53.883Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T06:49:08.886Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T06:49:08.951Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T07:28:59.097Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T07:28:59.975Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T07:42:37.856Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T07:42:38.307Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T07:45:50.585Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T07:45:50.613Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T07:48:43.398Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T07:48:43.464Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T07:50:10.020Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T07:50:10.048Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:11:19.062Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:11:19.096Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:14:02.046Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:14:02.099Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:16:42.215Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:16:42.306Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:17:33.502Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:17:33.531Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:18:09.716Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:18:09.780Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:20:19.975Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:20:20.004Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:21:03.823Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:21:03.828Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:21:35.942Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:21:36.018Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:22:53.864Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:22:53.892Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:28:49.795Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:28:49.898Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:39:00.806Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:39:00.830Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:39:33.405Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:39:33.418Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:41:00.685Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:41:00.703Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:41:18.699Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:41:18.731Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:41:40.121Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:41:40.228Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:42:17.236Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:42:17.274Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:42:26.484Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:42:26.516Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:42:35.049Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:42:35.085Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:42:42.908Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:42:43.198Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:43:14.770Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:43:14.798Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:45:46.398Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:45:46.427Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:47:18.306Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:47:18.398Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T08:48:07.185Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T08:48:07.277Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T09:09:28.006Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T09:09:28.571Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T09:17:37.780Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T09:17:37.894Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T09:18:07.964Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T09:18:07.991Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T09:18:57.950Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T09:18:57.960Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T09:24:19.811Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T09:24:19.840Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T09:25:35.161Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T09:25:35.266Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T09:26:23.280Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T09:26:23.302Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T09:37:34.339Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T09:37:55.530Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T09:39:20.688Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T09:40:36.680Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T09:41:15.655Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T09:41:15.722Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T09:44:41.203Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T09:44:41.295Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-08T09:50:58.453Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-08T09:50:58.534Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-12T07:06:14.467Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-12T07:06:14.610Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-12T07:06:24.955Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-12T07:06:24.956Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-15T04:54:22.022Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-15T04:54:22.234Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-19T08:26:00.226Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-19T08:26:00.355Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-20T04:52:43.937Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-20T04:52:43.949Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-23T05:39:54.178Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-23T05:39:54.492Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-23T05:40:14.650Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-23T05:40:14.683Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-27T04:26:57.096Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-27T04:26:57.324Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-28T05:34:02.689Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-28T05:34:02.773Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-28T05:34:18.052Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-28T05:34:18.073Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-28T05:36:01.679Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-28T05:36:01.689Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-28T05:37:24.006Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-28T05:37:24.022Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-28T05:44:43.046Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-28T05:44:43.085Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-28T05:46:12.115Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-28T05:46:12.138Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-28T05:48:43.710Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-28T05:48:43.733Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-28T05:48:54.676Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-28T05:48:54.679Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-28T05:54:42.852Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-28T05:54:43.057Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-28T10:02:54.201Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-28T10:02:54.210Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-28T10:03:53.842Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-28T10:03:53.902Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T05:59:54.493Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T05:59:54.684Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T06:19:56.343Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T06:19:56.358Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T06:20:39.546Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T06:20:39.549Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T06:37:59.395Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T06:37:59.428Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T06:38:11.371Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T06:38:11.372Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T06:39:36.695Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T06:39:36.733Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T06:49:58.521Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T06:49:58.548Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T06:58:48.751Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T06:58:48.769Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:01:47.952Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T07:01:48.036Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:06:09.694Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T07:06:09.711Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:08:19.890Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T07:08:19.910Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:09:30.251Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T07:09:30.262Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:11:58.209Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T07:11:58.236Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:12:19.392Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T07:12:19.415Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:13:25.562Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T07:13:25.586Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:15:52.947Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T07:15:52.969Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:17:21.010Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T07:17:21.029Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:23:19.512Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T07:23:19.533Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:46:49.193Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T07:46:49.283Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:47:53.351Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T07:47:53.374Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:50:10.082Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-29T07:50:10.103Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-30T07:10:27.980Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-30T07:10:28.196Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-30T11:06:48.916Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-30T11:06:48.925Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-04-30T11:28:28.546Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-04-30T11:28:28.549Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-03T06:51:37.970Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-03T06:51:37.985Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-03T13:12:34.328Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-03T13:12:34.351Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-04T06:34:26.327Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-04T06:34:26.726Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-04T07:09:00.853Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-04T07:09:00.871Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-04T07:11:20.541Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-04T07:11:20.566Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-04T07:28:52.291Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-04T07:28:52.294Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-04T08:49:19.765Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-04T08:49:19.822Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-04T12:30:05.182Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-04T12:30:05.366Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-04T12:31:50.426Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-04T12:31:50.444Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-04T12:33:57.347Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-04T12:33:57.383Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-04T13:12:29.826Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-04T13:12:29.828Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-10T11:00:42.002Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-10T11:00:42.161Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-12T12:24:19.940Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-12T12:24:19.994Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-12T12:28:08.737Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-12T12:28:08.747Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-13T06:02:57.678Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-13T06:02:57.691Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-15T07:13:46.887Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-15T07:13:46.897Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:33:14.598Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-20T08:33:14.639Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:34:15.452Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-20T08:34:15.455Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-20T09:18:16.701Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-20T09:18:16.747Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-20T09:18:47.599Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-20T09:18:47.601Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-24T04:06:44.143Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-24T04:06:44.203Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-24T04:12:47.547Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-24T04:12:47.562Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T04:01:31.206Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T04:01:31.574Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T07:11:09.390Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T07:11:09.522Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T09:21:41.810Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T09:21:41.842Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T09:34:40.834Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T09:34:40.854Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T09:41:37.477Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T09:41:37.478Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T10:29:25.469Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T10:31:52.535Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T10:31:52.554Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T10:32:18.879Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T10:32:18.903Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T10:32:52.722Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T10:32:52.726Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T10:34:35.392Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T10:34:35.420Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T10:37:33.358Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T10:37:33.366Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T10:49:51.113Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T10:49:51.152Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T10:50:03.849Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T10:50:03.862Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T10:50:13.788Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T10:50:13.796Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T10:50:45.732Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T10:50:45.734Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T10:51:07.315Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T10:51:07.319Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T10:51:56.676Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T10:51:56.679Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T10:52:14.390Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T10:52:14.417Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T10:52:59.800Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T10:52:59.870Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T10:58:15.245Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T10:58:15.262Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T11:02:29.710Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T11:02:29.785Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T11:10:42.881Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T11:10:42.898Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T11:12:51.559Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T11:12:51.605Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-25T11:19:41.580Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-25T11:19:41.583Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-26T03:43:45.955Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-26T03:43:46.065Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-26T03:44:38.090Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-26T03:44:38.127Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-26T03:44:51.136Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-26T03:44:51.157Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-26T03:45:08.017Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-26T03:45:08.019Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-26T03:46:06.420Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-26T03:46:06.422Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-26T03:46:58.796Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-26T03:46:58.828Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-26T03:50:59.035Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-26T03:50:59.038Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-26T03:51:17.222Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-26T03:51:17.330Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-26T03:51:46.867Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-26T03:51:46.868Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-26T03:59:35.769Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-26T03:59:35.952Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-26T04:02:38.409Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-26T04:02:38.432Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-26T04:06:58.194Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-26T04:06:58.205Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-26T04:12:09.560Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-26T04:12:09.563Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-27T04:09:47.475Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-27T04:09:47.480Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-27T04:09:56.466Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-27T04:09:56.486Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-27T04:10:17.268Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-27T04:10:17.298Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-27T04:10:57.005Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-27T04:10:57.033Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-27T04:14:39.359Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-27T04:22:08.604Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-27T04:38:02.797Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-27T04:38:02.908Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-27T04:58:08.211Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-27T04:58:08.230Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-27T05:11:47.883Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-27T05:11:48.233Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-27T05:12:03.339Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-27T05:12:03.451Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-27T05:13:52.581Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-27T05:13:52.598Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-27T05:19:49.894Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-27T05:19:49.938Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-27T06:11:03.042Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-27T06:12:23.931Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-27T06:12:23.979Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-27T06:12:38.684Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-27T06:12:38.701Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-27T06:14:22.849Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-27T06:14:22.861Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-27T08:07:42.249Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-27T08:07:42.296Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-27T08:07:51.060Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-27T08:07:51.096Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-31T12:14:52.311Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-31T12:14:52.448Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-31T12:15:09.463Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-31T12:15:09.466Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-05-31T13:54:41.294Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-05-31T13:54:41.402Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T08:49:29.714Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T08:49:30.375Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T09:11:02.650Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T09:11:02.664Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T09:11:45.629Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T09:11:45.733Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T11:00:03.641Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T11:00:04.058Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T11:07:28.102Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T11:07:28.107Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T11:07:47.782Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T11:07:47.788Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T11:08:28.859Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T11:08:29.043Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T11:08:35.174Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T11:08:35.402Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T11:08:45.361Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T11:08:45.368Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T11:15:36.450Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T11:15:36.647Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T11:16:22.133Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T11:16:22.206Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T11:16:28.016Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T11:16:28.032Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T00:46:33.446Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T00:46:34.181Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T00:48:21.706Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T00:48:21.807Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T00:49:43.647Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T00:49:43.690Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T00:50:19.881Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T00:50:19.940Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T00:51:06.246Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T00:51:06.319Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T00:52:13.998Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T00:52:14.086Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T00:55:45.053Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T00:55:45.059Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T00:56:45.834Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T00:56:45.970Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T12:19:37.974Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T12:19:38.088Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T12:43:01.978Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T12:43:01.981Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T12:44:42.585Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T12:44:42.586Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:02:17.391Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:02:17.396Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:02:46.999Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:02:47.024Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:04:24.380Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:04:24.445Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:04:47.090Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:04:47.095Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:05:13.360Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:05:13.363Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:05:55.405Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:05:55.423Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:06:58.777Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:06:58.804Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:07:04.375Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:07:04.404Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:07:10.924Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:07:10.937Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:07:33.128Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:07:33.149Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:07:40.381Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:07:40.450Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:12:42.007Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:12:42.040Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:12:49.283Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:12:49.296Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:12:56.478Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:12:56.758Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:13:20.200Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:13:20.331Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:14:25.581Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:14:25.590Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:14:31.854Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:14:31.867Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:24:20.023Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:24:20.025Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T13:24:26.618Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T13:24:26.682Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T14:53:26.093Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T14:53:26.387Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T14:54:04.545Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T14:54:04.549Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T14:55:07.320Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T14:55:07.322Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T14:55:19.207Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T14:55:19.277Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T14:55:31.417Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T14:55:31.419Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T14:55:50.624Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T14:55:50.625Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T15:56:39.297Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T15:56:39.681Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T15:57:43.608Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T15:57:43.611Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T15:57:56.173Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T15:57:56.175Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T15:59:30.079Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T15:59:30.083Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T15:59:42.534Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T15:59:42.535Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T16:00:08.687Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T16:00:08.691Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T16:00:22.327Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T16:00:22.329Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T16:01:37.738Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T16:01:37.741Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T16:01:52.450Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T16:01:52.452Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T16:02:58.642Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T16:02:58.645Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T16:03:13.171Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T16:03:13.172Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T16:44:57.156Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T16:44:57.160Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T16:45:07.314Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T16:45:07.316Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T16:46:15.012Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T16:46:15.015Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-01T16:46:44.499Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-01T16:46:44.502Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T16:47:22.101Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T16:47:22.104Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T16:47:35.572Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T16:47:35.574Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T08:46:50.308Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T08:46:50.364Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T08:48:32.409Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T08:48:32.457Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-02T09:44:24.734Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-02T09:44:24.948Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-03T04:27:49.137Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-03T04:27:49.660Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-03T04:27:57.327Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-03T04:27:57.478Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-03T04:44:25.123Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-03T04:44:25.138Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-03T04:44:32.299Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-03T04:44:32.317Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-03T04:44:39.393Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-03T04:44:39.522Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-03T04:52:13.864Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-03T04:52:13.868Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-03T05:13:28.585Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-03T05:13:28.591Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-03T05:15:39.017Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-03T05:15:39.020Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-09T03:52:55.642Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-09T03:52:55.663Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T04:03:56.012Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T04:03:56.015Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T04:04:13.444Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T04:04:13.928Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T04:04:30.756Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T04:04:30.780Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T04:06:53.711Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T04:06:53.727Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T04:10:10.066Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T04:10:10.145Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T04:10:53.775Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T04:10:53.850Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T04:18:52.827Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T04:18:52.912Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T04:20:11.054Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T04:20:11.057Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T04:20:20.956Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T04:20:20.958Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T04:20:31.397Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T04:20:31.400Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T04:20:46.733Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T04:20:46.787Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T04:22:42.356Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T04:22:42.358Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T04:22:52.620Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T04:22:52.621Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T08:00:48.297Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T08:00:48.299Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T08:06:47.216Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T08:06:47.250Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T10:49:59.842Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T10:49:59.844Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T10:50:53.827Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T10:50:53.830Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T11:54:31.321Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T11:54:31.325Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T11:54:45.302Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T11:54:45.304Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T11:55:04.734Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T11:55:04.752Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T11:59:20.969Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T11:59:21.061Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T11:59:36.442Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T11:59:36.465Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T12:03:18.827Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T12:03:18.841Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T12:03:43.879Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T12:03:43.884Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T12:03:51.244Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T12:03:51.253Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T12:13:07.358Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T12:13:07.423Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T12:52:20.420Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T12:52:20.743Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-15T12:53:17.832Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-15T12:53:17.874Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-16T04:23:16.379Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-16T04:23:17.697Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-16T04:25:43.203Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-16T04:25:43.213Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-16T04:26:00.352Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-16T04:26:00.378Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-16T08:39:29.165Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-16T08:39:29.351Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-16T09:40:56.864Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-16T09:40:57.102Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-17T12:29:24.072Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-17T12:29:24.111Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-22T05:07:49.915Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-22T05:07:50.022Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-22T10:52:19.901Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-22T10:52:19.963Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-22T10:56:24.201Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-22T10:56:24.267Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-22T10:56:59.580Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-22T10:56:59.618Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-22T10:57:26.829Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-22T10:57:26.840Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-22T10:59:19.679Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-22T10:59:19.682Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-22T10:59:51.922Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-22T10:59:51.947Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-22T11:06:47.576Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-22T11:06:47.638Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-23T12:22:40.644Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-23T12:22:40.764Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-23T12:23:04.875Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-23T12:23:04.931Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-23T12:23:46.304Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-23T12:23:46.344Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-23T12:24:18.461Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-23T12:24:18.479Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-23T12:28:31.364Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-23T12:28:31.390Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-23T12:28:42.111Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-23T12:28:42.202Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-23T12:29:02.314Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-23T12:29:02.316Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-23T12:53:37.287Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-23T12:53:37.297Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-23T12:54:42.292Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-23T12:54:42.317Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-23T12:55:25.758Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-23T12:55:25.779Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-23T12:59:53.046Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-23T12:59:53.058Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-23T13:02:06.761Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-23T13:02:06.776Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-24T04:45:49.496Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-24T04:45:49.534Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-25T08:33:11.608Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-25T08:33:11.665Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-25T08:33:35.801Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-25T08:33:35.804Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-25T08:37:43.480Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-25T08:37:43.482Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-25T08:38:02.287Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-25T08:38:02.289Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-25T08:38:23.358Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-25T08:38:23.361Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-28T03:57:49.826Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-28T03:57:49.913Z"}
+{"message":"received dailytracker request from manager with details undefined","level":"info","timestamp":"2021-06-28T03:58:43.267Z"}
+{"message":"DailyTracker added successfully","level":"info","timestamp":"2021-06-28T03:58:43.270Z"}

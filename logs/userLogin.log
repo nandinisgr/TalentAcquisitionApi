@@ -1,0 +1,517 @@
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-02-02T12:49:10.378Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-02-02T12:49:10.486Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-02-02T12:49:10.509Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-02-02T12:50:39.271Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-02-02T12:50:39.386Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-02-19T08:10:51.278Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-02-19T08:10:51.377Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-02-19T08:10:51.378Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-02-26T05:03:25.344Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-02-26T05:03:25.430Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-02-26T05:03:25.430Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-01T04:10:04.261Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-01T04:10:04.552Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-01T04:10:04.554Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-01T04:14:19.162Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-01T04:14:19.232Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-01T04:14:19.232Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-03T04:21:36.534Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-03T04:21:36.762Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-03T04:21:36.763Z"}
+{"message":"User with given details not found in database","level":"info","timestamp":"2021-03-03T08:30:36.839Z"}
+{"message":"User with given details not found in database","level":"info","timestamp":"2021-03-03T08:31:59.828Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-03T08:33:25.635Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-03T08:33:25.788Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-03T08:33:25.788Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-03T08:44:27.153Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-03T08:44:27.226Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-03T08:44:27.228Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-03T08:46:07.982Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-03T08:46:08.059Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-03T08:46:08.061Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-03T09:01:08.837Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-03T09:01:08.908Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-03T09:01:08.910Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-03T09:02:00.507Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-03T09:02:00.577Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-03T09:02:00.578Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-03T09:35:20.963Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-03T09:35:21.037Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-03T09:35:21.039Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-03T09:38:10.996Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-03T09:38:11.068Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-03T09:38:11.070Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-03T09:55:13.720Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-03T09:55:13.792Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-03T09:55:13.793Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-03T09:58:22.760Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-03T09:58:22.832Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-03T09:58:22.833Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-03T10:03:01.951Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-03T10:03:02.022Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-03T10:03:02.022Z"}
+{"message":"User with given details not found in database","level":"info","timestamp":"2021-03-03T10:26:44.282Z"}
+{"message":"User with given details not found in database","level":"info","timestamp":"2021-03-03T10:27:15.719Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-03T10:28:59.789Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-03T10:28:59.860Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-03T10:28:59.860Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-03T10:38:08.594Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-03T10:38:08.666Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-03T10:38:08.666Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-03T10:40:40.375Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-03T10:40:40.445Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-03T10:40:40.446Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-03T10:47:02.532Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-03T10:47:02.604Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-03T10:47:02.605Z"}
+{"message":"User with given details not found in database","level":"info","timestamp":"2021-03-03T11:59:40.005Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-03T12:00:03.962Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-03T12:00:04.200Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-03T12:00:04.202Z"}
+{"message":"User with given details not found in database","level":"info","timestamp":"2021-03-04T03:55:58.971Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T03:56:22.942Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T03:56:23.205Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T03:56:23.207Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T03:56:44.583Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T03:56:44.685Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T03:56:44.685Z"}
+{"message":"User with given details not found in database","level":"info","timestamp":"2021-03-04T03:56:49.954Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:06:29.974Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:06:30.046Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:06:30.046Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:06:53.078Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-03-04T04:06:53.149Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:26:30.771Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:26:30.863Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:26:30.863Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:26:40.701Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:26:40.777Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:26:40.777Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:28:58.641Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:28:58.716Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:28:58.716Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:29:16.690Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:29:16.761Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:29:16.762Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:30:12.347Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:30:12.434Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:30:12.435Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:30:42.729Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:30:42.802Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:30:42.802Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:30:44.589Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:30:44.676Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:30:44.676Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:31:05.727Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:31:05.826Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:31:05.826Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:32:39.939Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:32:40.026Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:32:40.026Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:32:48.993Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-03-04T04:32:49.068Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:33:22.029Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:33:22.102Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:33:22.103Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:34:36.693Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:34:36.766Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:34:36.766Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:35:16.521Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:35:16.612Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:35:16.613Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:36:42.236Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:36:42.310Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:36:42.310Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:37:56.366Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:37:56.440Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:37:56.440Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:38:36.070Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:38:36.142Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:38:36.142Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:39:06.903Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:39:06.974Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:39:06.975Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:39:14.610Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:39:14.685Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:39:14.685Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:39:41.289Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:39:41.361Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:39:41.361Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:39:57.574Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:39:57.646Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:39:57.646Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:41:34.399Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:41:34.473Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:41:34.473Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:41:42.311Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-03-04T04:41:42.388Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:42:19.118Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:42:19.191Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:42:19.191Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:42:29.925Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:42:29.997Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:42:29.997Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:42:46.483Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:42:46.554Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:42:46.554Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:42:48.193Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:42:48.269Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:42:48.269Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:43:48.158Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:43:48.230Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:43:48.230Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:43:50.280Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:43:50.357Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:43:50.358Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:44:20.951Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:44:21.024Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:44:21.025Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:45:16.643Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:45:16.714Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:45:16.715Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:57:06.366Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:57:06.437Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:57:06.438Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:57:29.452Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:57:29.523Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:57:29.523Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:57:53.451Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:57:53.521Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:57:53.521Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T04:58:09.510Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T04:58:09.582Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T04:58:09.582Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:01:46.111Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:01:46.182Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:01:46.182Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:03:29.363Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:03:29.442Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:03:29.442Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:03:31.311Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:03:31.414Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:03:31.414Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:03:59.769Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:03:59.846Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:03:59.846Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:05:36.042Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:05:36.112Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:05:36.113Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:13:20.766Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:13:20.853Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:13:20.854Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:15:28.657Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:15:28.727Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:15:28.727Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:15:51.761Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:15:51.862Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:15:51.862Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:16:05.339Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-03-04T05:16:05.409Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:16:12.644Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:16:12.689Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:16:12.729Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:16:12.729Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:16:12.790Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:16:12.790Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:16:18.717Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:16:18.975Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:16:18.975Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:16:31.198Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:16:31.270Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:16:31.270Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:16:57.431Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:16:57.516Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:16:57.517Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:17:23.009Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:17:23.080Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:17:23.080Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:18:49.447Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:18:49.528Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:18:49.528Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:19:16.506Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:19:16.576Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:19:16.576Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:20:44.309Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:20:44.381Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:20:44.381Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:20:59.360Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:20:59.430Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:20:59.430Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:22:56.722Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:22:56.792Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:22:56.792Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:23:48.933Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:23:49.003Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:23:49.004Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:24:18.965Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:24:19.037Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:24:19.037Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:25:20.962Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:25:21.032Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:25:21.032Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:25:40.292Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:25:40.362Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:25:40.362Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:26:00.626Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-03-04T05:26:00.696Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:26:50.579Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:26:50.649Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:26:50.650Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:26:57.663Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-03-04T05:26:57.749Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:27:28.876Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:27:28.949Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:27:28.949Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:27:55.856Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:27:55.926Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:27:55.927Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:28:02.847Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-03-04T05:28:02.922Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T05:28:44.661Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T05:28:44.732Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T05:28:44.732Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-04T06:38:28.710Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-04T06:38:28.787Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-04T06:38:28.788Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-05T02:53:29.414Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-05T02:53:29.668Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-05T02:53:29.670Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-10T04:04:50.649Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-10T04:04:50.741Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-10T04:04:50.742Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-10T04:41:32.419Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-03-10T04:41:32.568Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-10T04:43:46.312Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-10T04:43:46.439Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-10T04:43:46.439Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-12T04:52:31.581Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-12T04:52:31.969Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-12T04:52:31.969Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-15T03:55:33.579Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-15T03:55:33.674Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-15T03:55:33.675Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-15T10:45:26.032Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-03-15T10:45:26.105Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-15T10:46:11.139Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-15T10:46:11.214Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-15T10:46:11.215Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-22T09:09:58.373Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-22T09:09:58.675Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-22T09:09:58.729Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-22T09:10:35.316Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-03-22T09:10:35.389Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-22T09:44:06.052Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-22T09:44:06.240Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-22T09:44:06.312Z"}
+{"message":"User with given details not found in database","level":"info","timestamp":"2021-03-23T10:26:56.873Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-23T10:27:09.157Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-03-23T10:27:09.612Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-23T10:27:11.795Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-03-23T10:27:11.885Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-23T10:27:17.139Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-23T10:27:17.229Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-23T10:27:17.229Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-26T10:34:31.464Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-26T10:34:31.597Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-26T10:34:31.602Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-30T10:05:44.192Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-30T10:05:47.198Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-30T10:05:47.210Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-30T10:05:48.432Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-30T10:05:48.592Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-30T10:05:48.592Z"}
+{"message":"User with given details not found in database","level":"info","timestamp":"2021-03-31T07:37:34.116Z"}
+{"message":"User with given details not found in database","level":"info","timestamp":"2021-03-31T07:37:40.919Z"}
+{"message":"User with given details not found in database","level":"info","timestamp":"2021-03-31T07:37:47.533Z"}
+{"message":"User with given details not found in database","level":"info","timestamp":"2021-03-31T07:37:55.653Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-03-31T07:38:40.770Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-03-31T07:38:40.887Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-03-31T07:38:40.888Z"}
+{"message":"User with given details not found in database","level":"info","timestamp":"2021-04-05T07:10:58.801Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-04-05T07:12:23.430Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-04-05T07:12:23.509Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-04-05T07:12:23.509Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-04-06T06:40:38.135Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-04-06T06:40:38.463Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-04-06T06:40:38.480Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-04-08T05:38:10.878Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-04-08T05:38:11.091Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-04-08T05:38:11.092Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-04-12T13:36:11.966Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-04-12T13:36:12.212Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-04-12T13:36:12.213Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-04-12T14:04:30.091Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-04-12T14:04:30.166Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-04-12T14:04:30.167Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-04-21T08:26:41.536Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-04-21T08:26:41.774Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-04-21T08:26:42.059Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-04-21T11:41:54.801Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-04-21T11:41:55.168Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-04-21T11:41:55.417Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-04-23T03:55:58.128Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-04-23T03:55:58.313Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-04-23T03:55:58.369Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-03T06:32:27.999Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-03T06:32:28.316Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-03T06:32:28.477Z"}
+{"message":"User with given details not found in database","level":"info","timestamp":"2021-05-03T06:48:22.967Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-03T06:49:39.270Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-03T06:49:39.347Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-03T06:49:39.348Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-03T06:50:31.534Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-03T06:50:31.607Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-03T06:50:31.608Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-03T07:01:35.694Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-03T07:01:35.765Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-03T07:01:35.767Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-03T07:16:24.442Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-03T07:16:24.536Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-03T07:16:24.537Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-03T07:53:12.222Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-05-03T07:53:12.294Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-03T07:53:18.628Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-03T07:53:18.704Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-03T07:53:18.706Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-03T07:59:21.213Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-03T07:59:21.286Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-03T07:59:21.287Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-03T08:07:31.134Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-03T08:07:31.205Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-03T08:07:31.205Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-03T13:14:15.688Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-03T13:14:15.762Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-03T13:14:15.762Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-04T05:20:30.047Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-04T05:20:30.131Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-04T05:20:30.132Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-11T12:19:04.588Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-05-11T12:19:04.996Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-11T12:19:14.749Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-11T12:19:14.822Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-11T12:19:14.822Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-11T12:19:34.311Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-11T12:19:34.389Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-11T12:19:34.390Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-12T12:21:28.578Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-12T12:21:28.652Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-12T12:21:28.653Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-13T06:01:36.394Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-13T06:01:36.490Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-13T06:01:36.493Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-24T03:28:30.476Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-24T03:28:30.594Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-05-24T03:28:30.725Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-05-24T03:28:30.734Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-24T03:28:37.667Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-05-24T03:28:37.752Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-24T03:28:45.979Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-05-24T03:28:46.061Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-24T03:31:11.715Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-24T03:31:11.793Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-24T03:31:11.935Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-26T09:32:04.555Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-26T09:32:04.686Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-26T09:32:04.689Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-27T08:26:45.900Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-27T08:26:46.013Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-27T08:26:46.013Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-31T12:12:40.133Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-05-31T12:12:40.484Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-31T12:12:48.776Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-05-31T12:12:48.849Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-31T12:14:10.533Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-31T12:14:10.612Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-31T12:14:10.613Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-31T12:35:30.205Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-05-31T12:35:30.278Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-31T12:35:41.763Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-31T12:35:41.843Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-31T12:35:41.844Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-05-31T13:57:41.702Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-05-31T13:57:41.778Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-05-31T13:57:41.779Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-01T03:23:52.092Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-06-01T03:23:52.341Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-01T03:23:58.886Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-06-01T03:23:58.977Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-06-01T03:23:58.998Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-01T03:27:04.437Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-06-01T03:27:04.685Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-01T03:27:11.139Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-06-01T03:27:11.226Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-01T03:27:18.765Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-06-01T03:27:18.851Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-06-01T03:27:18.852Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-01T12:34:52.442Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-06-01T12:34:52.916Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-01T12:34:59.552Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-06-01T12:34:59.887Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-06-01T12:34:59.942Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-01T13:04:11.478Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-06-01T13:04:11.560Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-06-01T13:04:11.563Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-01T13:12:21.445Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-06-01T13:12:21.536Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-06-01T13:12:21.536Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-09T10:24:31.104Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-06-09T10:24:31.281Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-09T10:25:09.351Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-06-09T10:25:09.431Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-06-09T10:25:09.432Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-21T04:04:56.235Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-06-21T04:04:57.111Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-21T04:05:06.255Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-06-21T04:05:06.353Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-21T04:05:15.283Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-06-21T04:05:15.367Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-06-21T04:05:15.368Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-23T06:24:04.382Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-06-23T06:24:04.600Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-23T06:24:10.598Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-06-23T06:24:10.679Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-06-23T06:24:10.679Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-23T06:28:04.630Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-06-23T06:28:04.705Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-06-23T06:28:04.706Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-23T06:31:24.973Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-06-23T06:31:25.047Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-06-23T06:31:25.048Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-23T06:32:19.577Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-06-23T06:32:19.653Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-06-23T06:32:19.653Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-23T06:32:59.070Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-06-23T06:32:59.148Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-06-23T06:32:59.149Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-23T06:34:29.569Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-06-23T06:34:29.645Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-06-23T06:34:29.646Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-06-29T06:35:34.188Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-06-29T06:35:34.265Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-06-29T06:35:34.266Z"}
+{"message":"User with given details not found in database","level":"info","timestamp":"2021-08-01T04:27:45.980Z"}
+{"message":"User with given details not found in database","level":"info","timestamp":"2021-08-01T04:27:52.249Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-08-01T04:28:39.150Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-08-01T04:28:39.226Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-08-01T04:28:39.227Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-08-01T04:51:12.284Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-08-01T04:51:12.467Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-08-01T04:51:21.291Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-08-01T04:51:21.371Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-08-01T04:51:21.431Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-08-01T06:14:53.407Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-08-01T06:14:53.626Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-08-01T06:15:00.138Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-08-01T06:15:00.212Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-08-01T06:15:00.212Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-08-01T06:35:47.555Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-08-01T06:35:47.627Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-08-01T06:35:47.628Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-08-01T10:12:58.772Z"}
+{"message":"user unauthorized!, 401","level":"info","timestamp":"2021-08-01T10:12:59.104Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-08-01T10:13:07.220Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-08-01T10:13:07.298Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-08-01T10:13:07.299Z"}
+{"message":"user with given details is found in the database!","level":"info","timestamp":"2021-08-01T17:18:59.457Z"}
+{"message":"passwords matched!, User authenticated !","level":"info","timestamp":"2021-08-01T17:18:59.528Z"}
+{"message":"user authorized!, 200","level":"info","timestamp":"2021-08-01T17:18:59.529Z"}

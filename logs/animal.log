@@ -1,0 +1,723 @@
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-08T04:48:59.330Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-08T04:50:52.439Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-08T04:52:15.544Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-08T04:54:12.814Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-08T04:57:13.872Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-02-08T04:57:14.093Z"}
+{"message":"received register request from manager with details 1","level":"info","timestamp":"2021-02-08T11:23:31.897Z"}
+{"message":"received register request from manager with details 1","level":"info","timestamp":"2021-02-08T11:24:28.590Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-15T03:15:42.327Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-15T03:17:40.442Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-15T03:19:06.155Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-02-15T03:19:06.979Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-15T03:20:48.440Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-15T03:23:39.557Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-15T03:30:09.922Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-15T03:33:34.950Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-15T03:34:59.879Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-15T03:39:29.826Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-15T03:39:47.315Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-02-15T03:39:47.373Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-15T03:41:31.272Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-02-15T03:41:31.370Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-15T04:55:21.630Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-02-15T04:55:21.721Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-19T07:18:03.665Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-19T07:57:24.102Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-02-19T07:57:24.171Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-19T07:59:55.198Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-02-19T07:59:55.307Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-19T08:02:37.068Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-02-19T08:02:37.143Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-23T12:39:41.390Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-02-23T12:39:42.215Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-23T12:53:19.525Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-02-23T12:53:19.977Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-24T03:43:23.899Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-02-24T03:43:24.330Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-24T08:43:21.112Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-02-24T08:43:21.394Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-24T11:43:04.805Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-02-24T11:43:04.905Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-25T05:57:22.523Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-02-25T05:57:22.577Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-25T06:37:26.486Z"}
+{"message":"addEmployee added successfully","level":"info","timestamp":"2021-02-25T06:37:26.538Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-25T06:42:21.449Z"}
+{"message":"addEmployee added successfully","level":"info","timestamp":"2021-02-25T06:42:21.501Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-25T06:47:09.095Z"}
+{"message":"addEmployee added successfully","level":"info","timestamp":"2021-02-25T06:47:09.136Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-25T06:47:11.924Z"}
+{"message":"addEmployee added successfully","level":"info","timestamp":"2021-02-25T06:47:11.958Z"}
+{"message":"received register request from manager with details 2","level":"info","timestamp":"2021-02-25T06:49:16.315Z"}
+{"message":"addEmployee added successfully","level":"info","timestamp":"2021-02-25T06:49:16.377Z"}
+{"message":"received register request from manager with details 3","level":"info","timestamp":"2021-02-25T06:49:21.233Z"}
+{"message":"addEmployee added successfully","level":"info","timestamp":"2021-02-25T06:49:21.235Z"}
+{"message":"received register request from manager with details 4","level":"info","timestamp":"2021-02-25T06:49:25.062Z"}
+{"message":"addEmployee added successfully","level":"info","timestamp":"2021-02-25T06:49:25.064Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-25T06:50:15.597Z"}
+{"message":"addEmployee added successfully","level":"info","timestamp":"2021-02-25T06:50:15.642Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-26T05:07:21.684Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-02-26T05:07:21.876Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-02-26T10:45:27.511Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-02-26T10:45:27.767Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-01T04:08:09.792Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-01T04:08:10.159Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-01T04:12:28.815Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-01T04:12:28.958Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-03T10:12:01.882Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-03T10:12:02.312Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-03T10:55:01.125Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-03T10:55:01.220Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-03T11:51:12.084Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-03T11:51:12.089Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-03T11:51:12.196Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-08T03:54:36.068Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-08T03:54:36.709Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-08T03:57:50.376Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-08T03:57:50.470Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-08T04:03:21.323Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-08T04:03:21.358Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-08T04:07:36.822Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-08T04:07:36.889Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-08T06:33:03.201Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-08T06:33:03.324Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-08T11:29:10.320Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-08T11:29:10.406Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-10T05:02:31.015Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-10T05:02:31.071Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-12T04:53:31.274Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-12T04:53:31.569Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-15T03:56:15.225Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-15T03:56:15.642Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-15T10:46:42.405Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-15T10:46:42.609Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-17T11:04:55.263Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-17T11:04:55.306Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-17T11:05:24.688Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-17T11:05:24.752Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-18T04:23:08.738Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-18T04:23:08.899Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-18T05:53:15.288Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-18T05:53:15.434Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-22T09:46:10.461Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-22T09:46:10.790Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-23T06:37:18.437Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-23T06:37:18.775Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-23T10:29:05.025Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-23T10:29:05.289Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-24T06:36:53.111Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-24T06:36:53.709Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-24T07:33:43.501Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-24T07:34:09.282Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-24T07:34:09.330Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T05:36:23.988Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T05:36:24.392Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T05:42:04.798Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T05:42:04.932Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T05:49:46.852Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T05:49:47.229Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T05:50:58.561Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T05:50:58.634Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T05:51:05.325Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T05:51:17.294Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T05:51:17.457Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T06:10:17.185Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T06:10:17.257Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T06:11:39.340Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T06:11:39.477Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T06:16:26.423Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T06:16:26.491Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T06:23:04.339Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T06:23:04.407Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T06:31:11.165Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T06:31:11.263Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T06:31:44.335Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T06:32:00.723Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T06:32:00.766Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T06:32:07.024Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T06:32:14.592Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T06:32:14.649Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T06:32:53.152Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T06:32:53.326Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T06:39:41.056Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T06:39:41.196Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T06:42:52.220Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T06:42:52.298Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T06:45:24.974Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T06:45:25.044Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T06:47:35.668Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T06:47:35.707Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T06:50:08.771Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T06:50:08.815Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T06:53:49.320Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T06:53:49.371Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T06:57:45.704Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T06:57:45.749Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T07:16:25.699Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T07:16:27.154Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T07:18:24.044Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T07:18:24.121Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T07:19:53.669Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T07:20:04.321Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T07:20:04.377Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:17:29.755Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T10:17:30.064Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:31:13.802Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T10:31:13.982Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:33:21.709Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T10:33:21.804Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:35:12.740Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T10:35:12.824Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:36:20.031Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T10:36:20.108Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:38:47.141Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T10:38:47.397Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:39:54.149Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T10:39:54.240Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:41:06.975Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T10:41:07.110Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:42:43.315Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T10:42:43.484Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:43:55.570Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T10:43:55.983Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:44:58.770Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T10:44:58.842Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:46:08.384Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T10:46:08.458Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:47:16.354Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T10:47:16.548Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:48:12.650Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:48:23.170Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T10:48:23.310Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:48:58.105Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:49:13.283Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T10:49:13.349Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:50:10.850Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T10:50:10.946Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T10:52:13.570Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T10:52:13.640Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T11:06:20.150Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T11:06:20.219Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T11:08:00.555Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T11:08:00.605Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T11:13:05.263Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T11:13:05.341Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-25T11:15:46.874Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-25T11:15:46.947Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T04:31:57.473Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T04:31:57.763Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T04:33:53.600Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T04:33:53.685Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T04:35:30.711Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T04:35:30.840Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T04:36:46.000Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T04:36:46.078Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T04:58:52.148Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T04:58:52.209Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T05:02:02.454Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T05:02:02.500Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T05:12:58.587Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T05:12:58.639Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T05:15:31.398Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T05:15:31.447Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T05:25:18.922Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T05:25:19.002Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T05:58:25.763Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T05:58:25.893Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T06:04:46.901Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T06:04:46.977Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T06:06:18.292Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T06:06:18.370Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T06:07:18.201Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T06:07:18.285Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T06:11:21.136Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T06:11:21.204Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T06:12:01.717Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T06:12:02.036Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T06:14:02.311Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T06:14:02.462Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T06:15:21.397Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T06:15:21.466Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T06:16:36.862Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T06:16:36.941Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T06:19:44.248Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T06:19:44.371Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T06:21:44.604Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T06:21:44.731Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T06:23:23.433Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T06:23:23.504Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T06:28:24.252Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T06:28:24.351Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T06:35:32.929Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T06:35:58.046Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T06:35:58.106Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T06:38:57.833Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T06:38:57.909Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T06:40:20.690Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T06:40:20.751Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T06:42:19.252Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T06:42:19.302Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T06:43:09.167Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T06:43:09.233Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T08:12:11.174Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T08:12:11.214Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T08:43:44.576Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T08:43:44.814Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T08:46:58.251Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T08:46:58.290Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T08:47:00.843Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T08:47:09.208Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T08:47:09.264Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T08:49:05.066Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T08:49:05.134Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-26T09:00:10.850Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-26T09:00:11.089Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T03:54:19.488Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-30T03:54:27.658Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T04:29:35.335Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-30T04:29:35.463Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T04:30:12.524Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-30T04:30:12.724Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T08:36:08.731Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-30T08:36:08.913Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T10:11:21.177Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T11:46:25.876Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T11:52:20.038Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T12:00:20.341Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T12:00:30.936Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T12:00:31.907Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T12:49:56.682Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-30T12:49:57.806Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T12:55:32.798Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T12:55:44.830Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T12:55:47.499Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-30T12:55:47.539Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T12:55:51.316Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T12:55:54.160Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-30T12:55:54.200Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T12:55:58.092Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T12:56:02.074Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-30T12:56:02.203Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T12:57:12.721Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-30T12:57:12.790Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T13:34:05.788Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-30T13:34:06.082Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-30T13:42:48.592Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-30T13:42:48.664Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T05:06:30.497Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T05:06:40.365Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-31T05:06:40.540Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T05:08:24.738Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T05:08:34.350Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T05:08:41.468Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-31T05:08:41.533Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T05:11:59.111Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T05:12:05.586Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-31T05:12:05.589Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T05:15:46.687Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T05:15:54.104Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-31T05:15:54.334Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T05:33:21.969Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T05:33:34.173Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-31T05:33:34.263Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T05:34:55.578Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T05:35:01.084Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-31T05:35:01.088Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T06:02:56.923Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T06:03:03.991Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-31T06:03:04.070Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T06:50:33.850Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T08:40:18.795Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T08:40:24.981Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-31T08:40:24.985Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T09:04:02.493Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T09:04:09.694Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T09:04:27.388Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T09:04:27.444Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-31T09:04:27.488Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T09:05:24.507Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T09:05:39.406Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-31T09:05:39.485Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T09:21:32.693Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-31T09:21:32.907Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-03-31T09:33:41.526Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-03-31T09:33:41.543Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-05T04:09:35.010Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-05T04:09:35.222Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-05T05:10:52.676Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-05T05:10:52.745Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-05T12:48:50.882Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-05T12:48:51.528Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-05T12:54:08.046Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-05T12:54:08.213Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-06T04:32:42.949Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-06T04:32:43.267Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-06T06:05:39.430Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-06T06:05:39.440Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-06T06:05:57.197Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-06T06:05:57.202Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-06T06:07:48.428Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-06T06:07:48.432Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-07T05:00:16.156Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-07T05:00:16.273Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-08T05:23:50.658Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-08T05:23:50.930Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-08T05:25:06.771Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-08T05:25:06.776Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-08T05:26:40.613Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-08T05:26:40.644Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-08T06:45:28.582Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-08T06:45:28.587Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-08T06:46:34.493Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-08T06:46:34.497Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-12T07:05:26.620Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-12T07:05:27.076Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-12T07:05:55.672Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-12T07:05:55.676Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-15T04:52:26.790Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-15T04:52:26.969Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-15T04:54:02.835Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-15T04:54:02.954Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-20T04:51:51.199Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-20T04:51:51.362Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-21T11:42:59.267Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-21T11:43:00.232Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-27T04:59:34.475Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-27T04:59:34.793Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-28T05:31:18.551Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-28T05:31:18.727Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-28T05:33:02.210Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-28T05:33:02.214Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-28T05:35:51.346Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-28T05:35:51.380Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-28T05:36:58.730Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-28T05:36:58.784Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-28T05:45:58.667Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-28T05:45:58.670Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-28T05:47:45.079Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-28T05:47:45.083Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-28T05:48:32.254Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-28T05:48:32.277Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-28T05:54:03.432Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-28T05:54:03.438Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-28T09:55:12.309Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-28T09:55:12.510Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-28T10:02:35.324Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-28T10:02:35.364Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-28T10:03:40.583Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-28T10:03:40.587Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-28T10:12:22.894Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-28T10:12:22.902Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-29T03:34:46.266Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-29T03:34:46.299Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-29T06:04:06.369Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-29T06:04:06.378Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-29T06:37:09.526Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-29T06:37:09.581Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-29T06:37:46.094Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-29T06:37:46.097Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-29T06:58:38.005Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-29T06:58:38.046Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:01:31.284Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-29T07:01:31.297Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:05:34.503Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-29T07:05:34.506Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:08:09.756Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-29T07:08:09.770Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:09:11.138Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-29T07:09:11.165Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:11:32.587Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-29T07:11:32.613Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:13:11.398Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-29T07:13:11.401Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:22:37.176Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-29T07:22:37.200Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:46:25.560Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-29T07:46:25.827Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:47:42.789Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-29T07:47:42.798Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-29T07:48:44.377Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-29T07:48:44.383Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-30T11:06:08.587Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-30T11:06:08.972Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-04-30T11:27:25.196Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-04-30T11:27:25.223Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-03T06:51:22.196Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-03T06:51:22.375Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-03T13:12:15.817Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-03T13:12:16.123Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-04T05:58:24.275Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-04T05:58:24.520Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-04T07:07:14.075Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-04T07:07:14.304Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-04T07:11:03.049Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-04T07:11:03.076Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-04T07:28:08.514Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-04T07:28:08.649Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-04T07:45:18.276Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-04T07:45:18.854Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-04T08:48:25.979Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-04T08:48:26.261Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-04T12:31:29.510Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-04T12:31:29.520Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-04T12:33:39.277Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-04T12:33:39.281Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-04T13:10:06.070Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-04T13:10:06.119Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-10T11:00:20.089Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-10T11:00:20.338Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-12T12:21:58.904Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-12T12:21:58.956Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-12T12:27:56.933Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-12T12:27:56.935Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-13T05:11:53.549Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-13T05:11:53.802Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-13T06:02:08.032Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-13T06:02:08.070Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-18T12:16:56.157Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-18T12:16:56.379Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T03:11:47.799Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-20T03:11:48.250Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T03:12:00.539Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-20T03:12:00.541Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T03:13:24.106Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-20T03:13:24.139Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T03:14:34.271Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-20T03:14:34.798Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T03:14:59.095Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-20T03:14:59.098Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T03:16:24.248Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-20T03:16:24.250Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T07:40:34.999Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T07:42:35.184Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T07:42:38.410Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T07:42:42.576Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T07:42:55.319Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-20T07:42:55.387Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T07:49:35.807Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T07:57:03.059Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T07:59:00.675Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-20T07:59:00.680Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T07:59:19.056Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:01:20.610Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:02:04.250Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:03:28.830Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:05:16.833Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:06:49.109Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-20T08:06:49.115Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:07:31.142Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:10:45.139Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:14:24.026Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:14:57.054Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:16:24.144Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:21:40.851Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:30:38.338Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:32:24.754Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:36:40.350Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:38:12.018Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:39:11.620Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:40:07.289Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:41:57.986Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:43:56.851Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:44:12.850Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-20T08:44:12.854Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:44:38.903Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:47:02.842Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:49:04.763Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:50:18.909Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:52:08.600Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-20T08:52:08.607Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T08:52:38.464Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-20T08:52:38.468Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-20T09:17:40.925Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-20T09:17:41.029Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-24T03:46:29.605Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-24T03:46:29.654Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-25T04:28:49.248Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-25T04:28:49.567Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-25T09:21:29.071Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-25T09:21:29.166Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-25T09:33:04.835Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-25T09:33:05.012Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-25T10:56:40.180Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-25T10:56:40.183Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-25T11:10:28.854Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-25T11:10:28.860Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-25T11:12:35.317Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-25T11:12:35.324Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-25T11:19:08.643Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-25T11:19:08.646Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-26T03:40:14.576Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-26T03:40:14.734Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-26T03:41:27.436Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-26T03:41:27.439Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-26T03:42:36.931Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-26T03:42:36.933Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-26T03:46:43.878Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-26T03:46:43.902Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-26T03:49:49.905Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-26T03:49:49.908Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-26T03:50:27.211Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-26T03:50:27.235Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-26T04:11:04.363Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-26T04:11:04.484Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-05-31T13:54:24.911Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-05-31T13:54:25.199Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-01T03:08:27.405Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-01T03:08:27.528Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-01T11:13:51.423Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-01T11:13:52.650Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-01T11:14:36.715Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-01T11:14:36.764Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-01T11:16:10.787Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-01T11:16:10.790Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-02T08:43:26.769Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-02T08:43:26.968Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-02T08:43:52.184Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-02T08:43:52.289Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-03T05:12:37.503Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-03T05:12:37.636Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-03T05:15:16.572Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-03T05:15:16.575Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-03T07:53:49.349Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-03T07:53:49.693Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-03T11:42:11.073Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-03T11:42:11.093Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-09T03:52:46.542Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-09T03:52:46.655Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-09T09:37:18.057Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-09T09:37:18.103Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-09T10:25:36.109Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-09T10:25:36.281Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-15T04:22:11.514Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-15T04:22:11.545Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-15T08:06:35.065Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-15T08:06:35.074Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-15T10:42:45.866Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-15T10:42:45.994Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-15T11:04:58.398Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-15T11:04:58.409Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-17T12:23:50.458Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-17T12:23:50.566Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-17T12:24:11.017Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-17T12:24:11.035Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-17T12:26:18.789Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-17T12:26:18.851Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-18T12:02:31.026Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-18T12:02:31.742Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T05:01:19.130Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T05:01:19.353Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T05:03:49.101Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T05:03:49.162Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T05:11:13.341Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T05:11:13.409Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T05:14:31.576Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T05:14:31.610Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T05:18:07.064Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T05:18:07.082Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T05:29:07.485Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T05:29:07.589Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T05:29:50.653Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T05:29:50.659Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T05:34:12.235Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T05:34:12.237Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T05:41:17.909Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T05:41:17.922Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T05:44:35.127Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T05:44:35.138Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T05:48:25.741Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T05:48:25.822Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T06:00:45.498Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T06:00:45.507Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T06:22:01.937Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T06:22:02.124Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T06:23:11.943Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T06:23:11.946Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T06:24:29.800Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T06:24:29.843Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T06:25:02.818Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T06:25:02.823Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T06:34:43.836Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T06:34:43.863Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T06:40:59.760Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T06:40:59.763Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T06:42:03.535Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T06:42:03.593Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T06:43:17.082Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T06:43:17.084Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T06:44:27.523Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T06:44:27.533Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T06:44:43.187Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T06:44:43.189Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T06:58:57.129Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T06:58:57.138Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T08:28:26.961Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T08:28:27.316Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T12:09:54.573Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T12:09:54.954Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T12:10:47.082Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T12:10:47.094Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T12:17:38.225Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T12:17:38.229Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T12:18:36.020Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T12:18:36.339Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T12:19:37.066Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T12:19:37.110Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-21T12:23:54.428Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-21T12:23:54.878Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T05:03:37.935Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T05:03:38.171Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T05:09:02.338Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T05:09:02.346Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T05:55:28.339Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T05:55:29.021Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T06:16:16.761Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T06:16:16.772Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T06:20:57.496Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T06:20:57.795Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T06:24:23.683Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T06:24:23.748Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T06:28:25.303Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T06:28:25.305Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T06:34:49.558Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T06:34:49.591Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T06:38:14.024Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T06:38:14.039Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T06:48:49.883Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T06:48:49.889Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T06:52:46.697Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T06:52:46.721Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T06:53:07.918Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T06:53:07.933Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T06:59:38.147Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T06:59:38.161Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T11:19:36.430Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T11:19:36.455Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T12:21:07.523Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T12:21:07.539Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T12:50:05.785Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T12:50:06.099Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T12:52:17.396Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T12:52:17.404Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T13:11:29.919Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T13:11:29.926Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T13:17:38.734Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T13:17:38.749Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T13:22:43.677Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T13:22:43.685Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T13:27:52.274Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T13:27:52.288Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T13:30:47.956Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T13:30:47.962Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-23T13:33:03.209Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-23T13:33:03.212Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-24T04:25:25.832Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-24T04:25:26.122Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-28T03:56:59.592Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-28T03:56:59.851Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-28T05:17:41.563Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-28T05:17:41.621Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-28T05:25:05.863Z"}
+{"message":"received register request from manager with details undefined","level":"info","timestamp":"2021-06-28T05:26:39.331Z"}
+{"message":"Animal added successfully","level":"info","timestamp":"2021-06-28T05:26:39.349Z"}
